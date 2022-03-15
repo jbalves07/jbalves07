@@ -1,4 +1,4 @@
-## Hello World! I'm Juliano Alves, nice to meet ya!👋
+## Hello World! I'm Juliano, nice to meet ya! 👋🏻
 
 - 🔭 I’m #TiqueLover from TiqueTaque | https://www.tiquetaque.com/
 - 🌱 I’m learning JavaScript and TypeScript
