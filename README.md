@@ -1,4 +1,4 @@
-## Hello World! I'm Juliano, nice to meet ya! 👋🏻
+## Hello World! Nice to meet ya! 👋🏻
 
 - 🔭 I’m #TiqueLover from TiqueTaque | https://www.tiquetaque.com/
 - 🌱 I’m learning JavaScript and TypeScript
@@ -24,7 +24,7 @@
 ##
 
 <div>  
-<a href="https://www.linkedin.com/in/julianoborbaalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener"></a>
+<a href="https://www.linkedin.com/in/julianoborbaalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 ![Snake animation](https://github.com/jbalves07/jbalves07/blob/output/github-contribution-grid-snake.svg)
