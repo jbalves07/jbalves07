@@ -1,6 +1,6 @@
 ## Hello World! Nice to meet ya! 👋🏻
 
-- 🔭 I’m #TiqueLover from TiqueTaque | https://www.tiquetaque.com/
+- 🔭 I’m #TiqueLover from [TiqueTaque](https://www.tiquetaque.com/) 💜
 - 🌱 I’m learning JavaScript and TypeScript
 - 👨🏼‍💻 I'm working on my career transition to Web Development! 
 - 📫 How to reach me: in/julianoborbaalves
